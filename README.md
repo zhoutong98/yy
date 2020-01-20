@@ -1,2 +1,4 @@
 # yy 
+
 test
+if main();
